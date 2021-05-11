@@ -1,3 +1,3 @@
-# FEEL FREE TO VISIT fernaldifz.github.io/HTML_CSS/myTrying/first.html
-:D </br>
-totally trusted link
+# Simple HTML + CSS Project
+Feel free to visit: </br>
+fernaldifz.github.io/HTML_CSS/myTrying/first.html
